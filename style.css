@@ -23,8 +23,13 @@ p{
 }
 
 .penguin-logo img{
-    width: 250px;
+    width: 200px;
 
+}
+
+.nav-bar{
+    float:right;
+    padding-left: 500px;
 }
 
 
