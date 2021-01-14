@@ -98,3 +98,11 @@ p{
    
 
 }
+
+
+.bg{
+
+    background-color: rgb(250, 232, 250);
+    border-radius: 30px;
+    color:rgb(65, 61, 61);
+}
