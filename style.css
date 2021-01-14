@@ -22,6 +22,12 @@ p{
    
 }
 
+.penguin-logo img{
+    width: 250px;
+
+}
+
+
 
 .penguin-images img{
    
@@ -64,14 +70,6 @@ p{
     width: 100px;
     background-repeat: no-repeat;
  
-    
-    
-   
-    
-
-  
-  
-  
 }
 
 .btn img{
@@ -79,12 +77,6 @@ p{
     position: relative;
     top: 0;
     left: 0;
-    
-   
-   
-   
-    
-    
     
 }
 
