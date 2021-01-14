@@ -1,0 +1,103 @@
+body{
+
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h1{
+    color: rgb(241, 193, 72);
+}
+
+p{
+    color: rgb(104, 40, 104);
+    font-size: 12px;
+}
+
+.name-color{
+    color: rgb(93, 26, 93);
+}
+
+.penguin-images{
+    width: 100%;
+   
+}
+
+
+.penguin-images img{
+   
+    width: 170px;
+    height: 220px;
+    margin: 0 auto;
+    padding-top: 1rem;
+    border-radius: 20%;
+    margin-top: 1rem;
+    
+    
+}
+
+.main-pic img{
+    height: 400px;
+    width: 400px;
+   
+}
+
+.nav-logo img{
+    width: 220px;
+}
+
+
+.logo img{
+
+    width: 50px;
+    
+   
+}
+
+.main-logo img{
+    width: 450px;
+    height: 300px;
+    margin-top: 100px;
+}
+
+.btn{
+    background-color: darkorange;
+    width: 100px;
+    background-repeat: no-repeat;
+ 
+    
+    
+   
+    
+
+  
+  
+  
+}
+
+.btn img{
+    width: 25%;
+    position: relative;
+    top: 0;
+    left: 0;
+    
+   
+   
+   
+    
+    
+    
+}
+
+
+.penguin-card{
+ border: none;
+ 
+
+}
+.penguin-footer{
+    border:none;
+    background-color:white; 
+    
+   
+
+}
